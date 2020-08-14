@@ -3,7 +3,6 @@
 
 
 ## Sprites
-Made with [Piskel](https://piskel.com)
-
-Skin tones by: [source](https://i.pinimg.com/originals/b9/1e/9d/b91e9d2b7775e5b94fdd940e581a730b.png)
+Many Thanks to jebo14 for the [sprite sheet](https://www.deviantart.com/jebo14/art/Human-Sprite-Sheet-V2-0-648541839)
+and the whole [deviantart community](https://www.deviantart.com/)
 
